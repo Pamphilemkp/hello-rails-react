@@ -36,7 +36,6 @@ hello-rails-react** is a Ruby on Rails application ...
   <ul>
     <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
     <li><a href="https://rubyonrails.org/">React and Redux</a></li>
-    <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
   </ul>
 </details>
 
