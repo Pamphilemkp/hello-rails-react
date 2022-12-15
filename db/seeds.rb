@@ -5,3 +5,6 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+
+greeting = Greeting.create([{ name: "Hello" }, { name: "Bonjour" }])
+Root.create([{ name: "Hello" }, { name: "Bonjour" }, { name: "Jambo yenu" }, { name: "Mbote" }, { name: "Merhaba" }])
